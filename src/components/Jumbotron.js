@@ -12,9 +12,9 @@ const Jumbotron = () => {
         </h1>
         <div>
             <Carousel infiniteLoop={true} interval={3000} showThumbs={false}>
+                {/* <Featured />
                 <Featured />
-                <Featured />
-                <Featured />
+                <Featured /> */}
             </Carousel>
 
         </div>
