@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with this News App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It's Still under development.
+Also looking out for a free production News Api, the present API can only be used in development
 
 ## Available Scripts
 
